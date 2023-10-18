@@ -218,7 +218,7 @@ export default {
   user_required: '用户是必填项',
   build_version_required: '编译版本是必填项',
   title_required: '标题是必填项',
-  isRequired: '是必填项',
+  isRequired: ' 是必填项',
   mustBeInteger: '必须是整数',
   mustBe0OrGreater: '必须大于或等于 0',
   start_version_required: '开始版本是必填项',

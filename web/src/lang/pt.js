@@ -218,7 +218,7 @@ export default {
   user_required: 'Utilizador obrigatório',
   build_version_required: 'Versão de compilação obrigatória',
   title_required: 'Título obrigatório',
-  isRequired: 'é obrigatório',
+  isRequired: ' é obrigatório',
   mustBeInteger: 'Deve ser um número inteiro',
   mustBe0OrGreater: 'Deve ser 0 ou superior',
   start_version_required: 'Versão de início obrigatória',

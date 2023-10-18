@@ -219,7 +219,7 @@ export default {
   user_required: 'User is required',
   build_version_required: 'Build version is required',
   title_required: 'Title is required',
-  isRequired: 'is required',
+  isRequired: ' is required',
   mustBeInteger: 'Must be integer',
   mustBe0OrGreater: 'Must be 0 or greater',
   start_version_required: 'Start version is required',

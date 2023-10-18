@@ -218,7 +218,7 @@ export default {
   user_required: 'Требуется пользователь',
   build_version_required: 'Требуется номер сборки',
   title_required: 'Требуется заголовок',
-  isRequired: 'требуется',
+  isRequired: ' требуется',
   mustBeInteger: 'Должно быть целым числом',
   mustBe0OrGreater: 'Должно быть 0 или больше',
   start_version_required: 'Требуется стартовая версия',

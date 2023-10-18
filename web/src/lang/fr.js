@@ -215,7 +215,7 @@ export default {
   user_required: 'L\'utilisateur est requis',
   build_version_required: 'La version de construction est requise',
   title_required: 'Le titre est requis',
-  isRequired: 'est requis',
+  isRequired: ' est requis',
   mustBeInteger: 'Doit être un entier',
   mustBe0OrGreater: 'Doit être égal à 0 ou supérieur',
   start_version_required: 'La version de départ est requise',
